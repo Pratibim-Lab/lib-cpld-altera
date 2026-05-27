@@ -1,0 +1,17 @@
+{
+  "id": "CPLD_Altera/EP300:EP300",
+  "name": "EP300",
+  "library": "CPLD_Altera",
+  "file": "CPLD_Altera.kicad_symdir/EP300.kicad_sym",
+  "description": "EPLD, DIP-20",
+  "datasheet": "",
+  "keywords": "EPLD",
+  "footprint": "Package_DIP:DIP-20_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpld-altera@master/parts/EP300/",
+  "part_path": "parts/EP300",
+  "symbol_file": "parts/EP300/EP300.kicad_sym",
+  "source_library": "CPLD_Altera.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:14.374Z"
+}

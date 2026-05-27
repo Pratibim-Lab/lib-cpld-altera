@@ -1,0 +1,17 @@
+{
+  "id": "CPLD_Altera/EP910:EP910",
+  "name": "EP910",
+  "library": "CPLD_Altera",
+  "file": "CPLD_Altera.kicad_symdir/EP910.kicad_sym",
+  "description": "EPLD",
+  "datasheet": "",
+  "keywords": "EPLD",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpld-altera@master/parts/EP910/",
+  "part_path": "parts/EP910",
+  "symbol_file": "parts/EP910/EP910.kicad_sym",
+  "source_library": "CPLD_Altera.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:14.396Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "CPLD_Altera/EPM570ZM144:EPM570ZM144",
+  "name": "EPM570ZM144",
+  "library": "CPLD_Altera",
+  "file": "CPLD_Altera.kicad_symdir/EPM570ZM144.kicad_sym",
+  "description": "Altera Zero-Power MAX2 CPLD with 570 LE",
+  "datasheet": "https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/hb/max2/max2_mii5v1.pdf",
+  "keywords": "MAX2 MBGA",
+  "footprint": "Package_BGA:BGA-144_7.0x7.0mm_Layout13x13_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpld-altera@master/parts/EPM570ZM144/",
+  "part_path": "parts/EPM570ZM144",
+  "symbol_file": "parts/EPM570ZM144/EPM570ZM144.kicad_sym",
+  "source_library": "CPLD_Altera.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:14.593Z"
+}

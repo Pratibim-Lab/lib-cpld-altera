@@ -1,0 +1,17 @@
+{
+  "id": "CPLD_Altera/EPM240F100:EPM240F100",
+  "name": "EPM240F100",
+  "library": "CPLD_Altera",
+  "file": "CPLD_Altera.kicad_symdir/EPM240F100.kicad_sym",
+  "description": "Altera MAX2 CPLD with 240 LE",
+  "datasheet": "https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/hb/max2/max2_mii5v1.pdf",
+  "keywords": "MAX2 FBGA",
+  "footprint": "Package_BGA:BGA-100_11.0x11.0mm_Layout10x10_P1.0mm_Ball0.5mm_Pad0.4mm_NSMD",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpld-altera@master/parts/EPM240F100/",
+  "part_path": "parts/EPM240F100",
+  "symbol_file": "parts/EPM240F100/EPM240F100.kicad_sym",
+  "source_library": "CPLD_Altera.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:14.460Z"
+}

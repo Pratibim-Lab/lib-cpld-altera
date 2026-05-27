@@ -1,0 +1,17 @@
+{
+  "id": "CPLD_Altera/EP1810:EP1810",
+  "name": "EP1810",
+  "library": "CPLD_Altera",
+  "file": "CPLD_Altera.kicad_symdir/EP1810.kicad_sym",
+  "description": "EPLD",
+  "datasheet": "",
+  "keywords": "EPLD",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpld-altera@master/parts/EP1810/",
+  "part_path": "parts/EP1810",
+  "symbol_file": "parts/EP1810/EP1810.kicad_sym",
+  "source_library": "CPLD_Altera.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:14.369Z"
+}

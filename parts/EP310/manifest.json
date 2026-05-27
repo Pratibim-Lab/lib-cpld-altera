@@ -1,0 +1,17 @@
+{
+  "id": "CPLD_Altera/EP310:EP310",
+  "name": "EP310",
+  "library": "CPLD_Altera",
+  "file": "CPLD_Altera.kicad_symdir/EP310.kicad_sym",
+  "description": "EPLD, 8 Macrocell, DIP-20",
+  "datasheet": "https://www.usbid.com/assets/datasheets/A6/ep310%20-%20epld%20-%20altera.pdf",
+  "keywords": "EPLD",
+  "footprint": "Package_DIP:DIP-20_W7.62mm",
+  "extends": "EP300",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpld-altera@master/parts/EP310/",
+  "part_path": "parts/EP310",
+  "symbol_file": "parts/EP310/EP310.kicad_sym",
+  "source_library": "CPLD_Altera.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:14.379Z"
+}

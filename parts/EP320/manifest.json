@@ -1,0 +1,17 @@
+{
+  "id": "CPLD_Altera/EP320:EP320",
+  "name": "EP320",
+  "library": "CPLD_Altera",
+  "file": "CPLD_Altera.kicad_symdir/EP320.kicad_sym",
+  "description": "EPLD",
+  "datasheet": "",
+  "keywords": "EPLD",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpld-altera@master/parts/EP320/",
+  "part_path": "parts/EP320",
+  "symbol_file": "parts/EP320/EP320.kicad_sym",
+  "source_library": "CPLD_Altera.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:14.384Z"
+}
